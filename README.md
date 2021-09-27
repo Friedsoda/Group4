@@ -80,7 +80,14 @@ Tourist spot companies such as museums, restaurants, sports arenas, transportati
 
 ### Identification of Markets
 
+The product falls under business-to-consumer category as this is service based application. Our service mainly target the tourist who comes to visit the city. This application will focus on guiding the tourists to the places one has to visit in the city.
 
+Kind of markets we are targeting for the application are:
+
+1. Tourists: Considering people who visit the city need an easy guidance on not only how to go but also where to go.
+2. Touring companies and Government tourism department: As they need something exciting and user-friendly application which can used by people to make their journey easier in the city. 
+
+<br/>
 
 <br/>
 
@@ -90,9 +97,72 @@ Tourist spot companies such as museums, restaurants, sports arenas, transportati
 
 <br/>
 
+<br/>
+
 ### Personas for customers
 
+#### Persona 1: Painter, 30
 
+**Daily life**
+works as a professional artist, part-time teacher
+Loves traveling and nature
+usually travels alone
+
+**Common Problems**
+Would love to get an introduction of the scenery but doesn't want to distract herself from enjoying the scenery by looking up information about the scenic spot on her phone or the map
+Wants planned travel route
+Doesn't want to bring lots of things while traveling
+
+**Common Questions**
+How can I get more information while traveling without spending loads of time looking on my phone?
+
+**Beliefs**
+The journey should be light and portable
+
+<br/>
+
+#### Persona 2: College student, 21
+
+**Daily life**
+Full-time student
+Always uses Google Maps to get destination information
+
+**Common Problems**
+Doesn't have many budgets for traveling
+Doesn't want to spend lots of time planning her trip
+Always gets lost while traveling in an unfamiliar city
+
+**Common Questions**
+How can I get a planned trip without a tour group?
+How can I use less money while traveling?
+
+**Beliefs**
+Travel could be more achievable with less money
+
+<br/>
+
+#### Persona 3: Senior Citizen, 61
+
+**Daily life**
+
+Travels annually
+Usually travels with a tour group
+Seldom use digital maps
+
+**Common Problems**
+Doesn't know how to use digital maps
+Always finds it's too hard to see the letters on the map clearly
+Too much reliance on tour groups and less personal space
+
+**Common Questions**
+where can I find age-friendly maps?
+How can I travel without tour groups?
+
+**Beliefs**
+Travel should be easier for the aged
+There could be more age-friendly maps
+
+<br/>
 
 <br/>
 
