@@ -101,7 +101,7 @@ Kind of markets we are targeting for the application are:
 
 ### Personas for customers
 
-#### Persona 1: Painter, 30
+#### <u>Persona 1: Painter, 30</u>
 
 **Daily life**
 
@@ -133,7 +133,7 @@ The journey should be light and portable
 
 
 
-#### Persona 2: College student, 21
+#### <u>Persona 2: College student, 21</u>
 
 **Daily life**
 
@@ -163,7 +163,7 @@ Travel could be more achievable with less money
 
 <br/>
 
-#### Persona 3: Senior Citizen, 61
+#### <u>Persona 3: Senior Citizen, 61</u>
 
 **Daily life**
 
