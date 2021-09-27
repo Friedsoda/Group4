@@ -207,6 +207,8 @@ Answer: Yes/No
 Q5 If Q4, what is the maximum rate you would be willing to pay?
 Answer: €1 - 100
 
+<br/>
+
 ### For company, attracts etc. test:
 #### Hypothesis
 We suppose most travel companies, shops, restaurants etc. are willing to exposure themselves to more people and improve their market management and products for higher revenues. We want to test if these groups are willing to pay for an APP to generate higher exposure and buy user behaviour data for analysing.
@@ -229,7 +231,6 @@ Answer: Yes/No
 
 Q6 If Q5, what is the maximum rate you would be willing to pay?
 Answer: €10 - ∞
-
 
 <br/>
 <br/>
